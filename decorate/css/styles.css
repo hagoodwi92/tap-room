@@ -1,0 +1,16 @@
+.before{
+  float: left;
+  width: 33%;
+  background-color: aquamarine;
+}
+.during{
+  float: left;
+  width: 33%;
+  background-color: brown;
+}
+.after{
+  background-color: red;
+  float: left;
+  width: 33%;
+}
+
