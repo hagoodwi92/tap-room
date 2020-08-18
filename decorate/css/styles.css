@@ -1,15 +1,23 @@
 .before{
   float: left;
   width: 33%;
+<<<<<<< HEAD
   background-color: aquamarine;
+=======
+>>>>>>> aaf54ba84ce9f30f6d6f885904b661c6678c7760
 }
 .during{
   float: left;
   width: 33%;
+<<<<<<< HEAD
   background-color: brown;
 }
 .after{
   background-color: red;
+=======
+}
+.after{
+>>>>>>> aaf54ba84ce9f30f6d6f885904b661c6678c7760
   float: left;
   width: 33%;
 }
