@@ -15,5 +15,11 @@ export default class CurrencyExchange {
     });
 
     
+
+    
   }
+  // getResult(){
+  //     if(country = "Argentina"){
+
+  //     }
 }
